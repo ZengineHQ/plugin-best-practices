@@ -23,4 +23,4 @@ There are a number of modules available on NPM in the [@zenginehq](https://www.n
 
 - [@zenginehq/backend-firebase](https://www.npmjs.com/package/@zenginehq/backend-firebase): for retrieving settings from firebase
 - [@zenginehq/backend-http](https://www.npmjs.com/package/@zenginehq/backend-http): for working with the Zengine API, includes batched fetching a large amount of records
-- **coming soon** [@zenginehq/backend-webhooks](https://www.npmjs.com/package/@zenginehq/backend-webhooks): for managing regular and scheduled webhooks in backend services
+- [@zenginehq/backend-webhooks](https://www.npmjs.com/package/@zenginehq/backend-webhooks): for managing regular and scheduled webhooks in backend services
