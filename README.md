@@ -16,15 +16,15 @@ There are a number of modules available on NPM in the [@zenginehq](https://www.n
 
 #### Frontend
 
-- [@zenginehq/frontend-config](https://www.npmjs.com/package/@zenginehq/frontend-config): for building settings forms for your plugin
-- [@zenginehq/frontend-webhooks](https://www.npmjs.com/package/@zenginehq/frontend-webhooks): for managing both regular and scheduled webhooks in frontend plugins
-- [@zenginehq/frontend-bulk](https://www.npmjs.com/package/@zenginehq/frontend-bulk): for working with bulk Zengine API requests and avoiding API rate limits
+- [config](https://www.npmjs.com/package/@zenginehq/frontend-config): for building settings forms for your plugin
+- [webhooks](https://www.npmjs.com/package/@zenginehq/frontend-webhooks): for managing both regular and scheduled webhooks in frontend plugins
+- [bulk](https://www.npmjs.com/package/@zenginehq/frontend-bulk): for working with bulk Zengine API requests and avoiding API rate limits
 
 #### Backend
 
-- [@zenginehq/backend-firebase](https://www.npmjs.com/package/@zenginehq/backend-firebase): for retrieving settings from firebase
-- [@zenginehq/backend-http](https://www.npmjs.com/package/@zenginehq/backend-http): for working with the Zengine API, includes batched fetching a large amount of records
-- [@zenginehq/backend-webhooks](https://www.npmjs.com/package/@zenginehq/backend-webhooks): for managing regular and scheduled webhooks in backend services
+- [firebase](https://www.npmjs.com/package/@zenginehq/backend-firebase): for retrieving settings from firebase
+- [http](https://www.npmjs.com/package/@zenginehq/backend-http): for working with the Zengine API, includes batched fetching a large amount of records
+- [webhooks](https://www.npmjs.com/package/@zenginehq/backend-webhooks): for managing regular and scheduled webhooks in backend services
 
 ## Plugin Development Golden Standard
 
