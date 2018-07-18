@@ -22,7 +22,7 @@ There are a number of modules available on NPM in the [@zenginehq](https://www.n
 
 #### Backend
 
-- [firebase](https://www.npmjs.com/package/@zenginehq/backend-firebase): for retrieving settings from firebase
+- [firebase](https://www.npmjs.com/package/@zenginehq/backend-firebase): for reading and writing data to Firebase
 - [http](https://www.npmjs.com/package/@zenginehq/backend-http): for working with the Zengine API, includes batched fetching a large amount of records
 - [webhooks](https://www.npmjs.com/package/@zenginehq/backend-webhooks): for managing regular and scheduled webhooks in backend services
 
