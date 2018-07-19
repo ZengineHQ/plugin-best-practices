@@ -16,7 +16,7 @@ There are a number of modules available on NPM in the [@zenginehq](https://www.n
 
 #### Frontend
 
-- [config](https://www.npmjs.com/package/@zenginehq/frontend-config): for building settings forms for your plugin
+- [config](https://www.npmjs.com/package/@zenginehq/frontend-config): for building settings forms for your plugin and storing them in Firebase
 - [webhooks](https://www.npmjs.com/package/@zenginehq/frontend-webhooks): for managing both regular and scheduled webhooks in frontend plugins
 - [bulk](https://www.npmjs.com/package/@zenginehq/frontend-bulk): for working with bulk Zengine API requests and avoiding API rate limits
 
