@@ -28,10 +28,10 @@ There are a number of modules available on NPM in the [@zenginehq](https://www.n
 
 ## Plugin Development Golden Standard
 
-All official helper plugins created and maintained by WizeHive should adhere to the following standards:
+All official helper plugins created and maintained by WizeHive should adhere to the following standards (see existing backend plugins for reference):
 
-@TODO write this
-- linting
-- nvm
-- tests + coverage
-- docs
+- `README.md` file containing badges, brief information, a screenshot if applicable, examples if applicable and a link to the generates API docs
+- `package.json` script to lint code using standard configs (@todo provide gist)
+- `.nvm` file specifying node version to use (currently 8.x)
+- 100% test coverage for backend services, using Istanbul with Coveralls
+- Automatically generated API docs, hosted in Github pages
