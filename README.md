@@ -30,8 +30,9 @@ There are a number of modules available on NPM in the [@zenginehq](https://www.n
 
 All official helper plugins created and maintained by WizeHive should adhere to the following standards (see existing backend plugins for reference):
 
-- `README.md` file containing badges, brief information, a screenshot if applicable, examples if applicable and a link to the generates API docs
+- `README.md` file containing badges, brief information, a screenshot if applicable, examples if applicable and a link to the generated API docs
 - `package.json` script to lint code using standard configs (@todo provide gist)
+- commits using the Angular Commit conventions and versions maintained using `standard-version`
 - `.nvm` file specifying node version to use (currently 8.x)
 - 100% test coverage for backend services, using Istanbul with Coveralls
 - Automatically generated API docs, hosted in Github pages
