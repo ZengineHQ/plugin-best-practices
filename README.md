@@ -7,7 +7,7 @@
 Whenever starting a plugin from scratch you should use the provided Yeoman [generator](https://github.com/Wizehive/generator-zn-plugin): 
 
 ```shell
-# npm i -y yo
+# npm i -g yo
 npm i -g generator-zn-plugin
 
 yo zn-plugin my-awesome-plugin 
