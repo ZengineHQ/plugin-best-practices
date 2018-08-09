@@ -4,10 +4,26 @@
 
 ## Generator
 
-Whenever starting a plugin from scratch consider using the provided Yeoman [generator](https://github.com/Wizehive/generator-zn-plugin): 
+Whenever starting a plugin from scratch you should use the provided Yeoman [generator](https://github.com/Wizehive/generator-zn-plugin): 
 
 ```shell
+# npm i -y yo
 npm i -g generator-zn-plugin
+
+yo zn-plugin my-awesome-plugin 
+```
+
+## Maya(n)
+
+There are two tools available to build, deploy and publish your frontend plugins and backend services:
+
+- [maya](https://github.com/ZengineHQ/maya) _stable legacy version_ 
+- [mayan](https://github.com/ZengineHQ/mayan) _brand new beta version_
+
+```shell
+npm i -g @zenginehq/mayan
+
+mayan build myPlugin --frontend
 ```
 
 ## Helper modules
