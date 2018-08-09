@@ -35,4 +35,5 @@ All official helper plugins created and maintained by WizeHive should adhere to 
 - Code commited using the [expected conventions](https://gist.github.com/alexweber/502494e55ebca1df855cad1e65715817) and versions maintained using `standard-version`
 - `.nvm` file specifying node version to use (currently 8.x)
 - 100% test coverage for backend services, using Istanbul with Coveralls
+- Continuous Integration with CircleCI to run tests and integrate with Github branch protection status checks
 - Automatically generated API docs, hosted in Github pages
