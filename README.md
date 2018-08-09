@@ -32,7 +32,7 @@ All official helper plugins created and maintained by WizeHive should adhere to 
 
 - `README.md` file containing badges, brief information, a screenshot if applicable, examples if applicable and a link to the generated API docs
 - `package.json` script to lint code using standard configs (@todo provide gist)
-- commits using the Angular Commit conventions and versions maintained using `standard-version`
+- Code commited using the [expected conventions](https://gist.github.com/alexweber/502494e55ebca1df855cad1e65715817) and versions maintained using `standard-version`
 - `.nvm` file specifying node version to use (currently 8.x)
 - 100% test coverage for backend services, using Istanbul with Coveralls
 - Automatically generated API docs, hosted in Github pages
