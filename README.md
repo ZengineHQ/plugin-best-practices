@@ -58,8 +58,9 @@ All official helper plugins created and maintained by WizeHive should adhere to 
 ## Deploying plugin updates to npm
 
 1. `npm run lint`
-2. `npm test`
-3. `npm run docs`
-4. `npm run release`
-5. `git push --follow-tags origin master`
-6. `npm publish --access public`
+1. `npm test`
+1. `npm run docs`
+1. `npm run cover`
+1. `npm run release`
+1. `git push --follow-tags origin master`
+1. `npm publish --access public`
