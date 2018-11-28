@@ -13,18 +13,19 @@ npm i -g generator-zn-plugin
 yo zn-plugin my-awesome-plugin 
 ```
 
-## Maya(n)
+## Mayan
 
-There are two tools available to build, deploy and publish your frontend plugins and backend services:
+There's a tool available to build, deploy and publish your frontend plugins and backend services:
 
-- [maya](https://github.com/ZengineHQ/maya) _stable legacy version_ 
-- [mayan](https://github.com/ZengineHQ/mayan) _brand new beta version_
+- [mayan](https://github.com/ZengineHQ/mayan)
 
 ```shell
 npm i -g @zenginehq/mayan
 
 mayan build myPlugin --frontend
 ```
+
+Note: mayan is the successor to [maya](https://github.com/ZengineHQ/maya
 
 ## Helper modules
 
