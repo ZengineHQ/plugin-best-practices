@@ -54,3 +54,12 @@ All official helper plugins created and maintained by WizeHive should adhere to 
 - 100% test coverage for backend services, using Istanbul with Coveralls
 - Continuous Integration with CircleCI to run tests and integrate with Github branch protection status checks
 - Automatically generated API docs, hosted in Github pages
+
+## Deploying plugin updates to npm
+
+1. `npm run lint`
+2. `npm test`
+3. `npm run docs`
+4. `npm run release`
+5. `git push --follow-tags origin master`
+6. `npm publish --access public`
