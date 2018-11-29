@@ -60,7 +60,7 @@ All official helper plugins created and maintained by WizeHive should adhere to 
 1. `npm run lint`
 1. `npm test`
 1. `npm run docs`
-1. `npm run cover`
+1. `npm run cover` (may need to obtain repo token)
 1. `npm run release`
 1. `git push --follow-tags origin master`
 1. `npm publish --access public`
